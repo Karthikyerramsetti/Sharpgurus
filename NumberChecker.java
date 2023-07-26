@@ -1,4 +1,3 @@
-package Program;
 import java.util.Scanner;
 public class NumberChecker {
 public static boolean isEven(int number) {

@@ -1,5 +1,3 @@
-package Program;
-
 public class SequenceCalculator3 {
 
     public static double calculateFactorial(int n) {

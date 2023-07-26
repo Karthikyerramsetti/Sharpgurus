@@ -1,4 +1,3 @@
-package Program;
 import java.util.Scanner;
 public class NumbersReverseSum { 
 public static int reverseNumber(int number) {

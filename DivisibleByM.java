@@ -1,5 +1,3 @@
-package Program;
-
 import java.util.Scanner;
 public class DivisibleByM {
     public static void main(String[] args) {

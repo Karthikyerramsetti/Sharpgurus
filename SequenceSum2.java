@@ -1,5 +1,3 @@
-package Program;
-
 public class SequenceSum2 {
  public static double calculateSequenceSum(int n) {
             double sum = 0.0;

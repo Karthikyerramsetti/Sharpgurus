@@ -1,4 +1,3 @@
-package Program;
 public class SequenceSumCalculator {
 
         public static double calculateSequenceSum(int n) {
