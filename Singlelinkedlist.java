@@ -9,7 +9,7 @@ class Node {
 }
 
 class LinkedList {
-    Node head;
+    Insertionanddeletion.Node head;
 
     public LinkedList() {
         this.head = null;
